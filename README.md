@@ -18,7 +18,7 @@ O principal objetivo deste projeto é aplicar técnicas de neuroevolução para 
 
 A IA aprende a jogar Flappy Bird utilizando um modelo de rede neural evolutiva, onde cada pássaro recebe entradas do ambiente e decide se deve pular ou não com base em um cálculo interno.
 
-###Cálculo para Tomada de Decisão
+### Cálculo para Tomada de Decisão
 
 A IA recebe as seguintes variáveis como entrada para sua rede neural:
  - Altura do pássaro em relação ao solo.
