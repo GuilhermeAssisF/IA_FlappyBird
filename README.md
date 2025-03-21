@@ -57,10 +57,10 @@ Se a saída da rede neural for maior que um certo limiar (por exemplo, 0.5), o p
 ## Como Executar
 
 ### Para Jogar Manualmente
-Para jogar Flappy Bird manualmente, defina a variável ai_jogando = False
+Para jogar Flappy Bird manualmente, defina a variável ### ai_jogando = False
 
 ### Para treinar a IA
-Para iniciar o treinamento da IA com NEAT, defina a variável ai_jogando = True
+Para iniciar o treinamento da IA com NEAT, defina a variável ### ai_jogando = True
 
 ## Estrutura do Projeto
 ```
