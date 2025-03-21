@@ -65,7 +65,7 @@ Para iniciar o treinamento da IA com NEAT, defina a variável ai_jogando = True
 ## Estrutura do Projeto
 ```
 flappy-bird-neat/
-│-- imgs/                 # Imagens e sons do jogo
+│-- imgs/                 # Imagens
 │-- FlappyBird.py         # Implementação do jogo mais ia
 │-- config.txt            # Configuração do algoritmo NEAT
 │-- README.md             # Documentação do projeto
